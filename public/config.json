@@ -16,8 +16,8 @@
         "execute": {
             "inArguments": [
                 {
-                  "email": "{{Contact.Default.EmailAddress}}",
-                  "to": "{{Contact.Attribute.TwilioV1.TwilioNumber}}" 
+                  "email": "{{Contact.Attribute.SMS_Dummy.EmailAddress}}",
+                  "to": "{{Contact.Attribute.SMS_Dummy.Phone}}" 
                 }               
             ],
             "outArguments": [],
