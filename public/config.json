@@ -21,7 +21,7 @@
                 }               
             ],
             "outArguments": [],
-            "url": "https://twilio-sfmc.vercel.app/journeybuilder/execute",
+            "url": "https://twilio-sfmc-nl6j.onrender.com/journeybuilder/execute",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -32,7 +32,7 @@
     "configurationArguments": {
       "applicationExtensionKey": "9f09fd1d-eef8-4589-9c8d-b7097df1848b",
        "save": {
-           "url": "https://twilio-sfmc.vercel.app/save",
+           "url": "https://twilio-sfmc-nl6j.onrender.com/save",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -40,7 +40,7 @@
             "timeout": 2000
        },
        "publish": {
-           "url": "https://twilio-sfmc.vercel.app/publish",
+           "url": "https://twilio-sfmc-nl6j.onrender.com/publish",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -48,7 +48,7 @@
             "timeout": 2000
        },
        "validate": {
-           "url": "https://twilio-sfmc.vercel.app/validate",
+           "url": "https://twilio-sfmc-nl6j.onrender.com/validate",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -56,7 +56,7 @@
             "timeout": 2000
        },
        "stop": {
-           "url": "https://twilio-sfmc.vercel.app/stop",
+           "url": "https://twilio-sfmc-nl6j.onrender.com/stop",
             "verb": "POST",
             "body": "",
             "format": "json",
